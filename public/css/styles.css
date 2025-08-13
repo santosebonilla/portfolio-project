@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(120deg, #e3f0ff 0%, #f8fafc 100%);
+    color: #222;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background: #2563eb;
+    color: #fff;
+    padding: 1.5rem 0;
+    text-align: center;
+}
+
+header a {
+    color: #dbeafe;
+    text-decoration: underline;
+}
+
+main {
+    max-width: 800px;
+    margin: 2rem auto;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 16px rgba(37,99,235,0.08);
+    padding: 2rem;
+}
+
+h1, h2, h3 {
+    color: #2563eb;
+}
+
+ul {
+    line-height: 1.7;
+}
+
+section {
+    margin-bottom: 2rem;
+}
